@@ -1,4 +1,3 @@
-# final_progect1
-final progect
+# group26022006fastapi
 
 uvicorn main:app --port 8000 --reload
